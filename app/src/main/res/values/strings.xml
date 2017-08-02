@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Element Trivia</string>
+    <string name="result_perfect">Perfect job!</string>
+    <string name="result_good">Good job!</string>
+    <string name="result_ok">You did ok!</string>
+    <string name="result_bad">Keep trying!</string>
+
+    <string name="question_symbol">Select the correct symbol for:</string>
+    <string name="question_name">Select the correct name for:</string>
+
+    <string name="element_symbol">Symbol</string>
+    <string name="element_name">Name</string>
+    <string name="retry">Retry</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="elements">Elements</string>
+    <string name="questions_answered_correctly">Questions answered correctly:</string>
+    <string name="answer">Answer</string>
+    <string name="questions_answered">Questions answered:</string>
+    <string name="start">Start</string>
+    <string name="number_of_questions">Number of questions</string>
+    <string name="question_type">Question type</string>
+    <string name="element_trivia">Element Trivia</string>
+
+
+</resources>
